@@ -17,7 +17,6 @@ public class Words2 {
         String randomString = "";
         //length of word
         int length = 4;
-
         //new object
         Random ran = new Random();
         //empty array
