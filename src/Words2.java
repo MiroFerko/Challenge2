@@ -34,5 +34,4 @@ public class Words2 {
         }
         return randomString;
     }
-
 }
