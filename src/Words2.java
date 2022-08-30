@@ -12,6 +12,7 @@ public class Words2 {
 
 
 
+
     public static String creation() {
         //String of characters to use
         String characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
